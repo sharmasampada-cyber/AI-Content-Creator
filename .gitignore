@@ -1,4 +1,5 @@
 .env
+venv/
 Lib/
 Scripts/
 Include/
@@ -7,3 +8,4 @@ etc/
 __pycache__/
 *.pyc
 pyvenv.cfg
+app_backup.py
